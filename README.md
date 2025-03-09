@@ -14,6 +14,6 @@ To ensure a proper service in your Discord Servers, you must not:
 
 We reserve the right (in sole discretion) to: Terminate the service provided to you without the need to inform you. Block you from adding Nako Bot without any notice.
 
-If you have some concerns regarding our Terms of Service, please reach out us: [Contact Support], and we will make sure to answer you as soon as possible.
+If you have some concerns regarding our Terms of Service, please reach out us: [Contact Support](https://discord.com/users/868372892524621824), and we will make sure to answer you as soon as possible.
 
 **We may add, remove or edit our Terms and policies anytime. You agree to checking our Terms of Service and Privacy Policies regularly.**
